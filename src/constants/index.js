@@ -116,9 +116,9 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "This project is a website portfolio that was built using ReactJS and TailwindCSS.",
+      "This project is a website portfolio that was built using React and TailwindCSS.",
     img: project03,
-    link: "https://cirstea97.github.io/portfolio-website",
+    link: "https://github.com/cirstea97/portfolio-website",
   },
 ];
 
